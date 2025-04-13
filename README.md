@@ -18,7 +18,8 @@
  
 ## 📫 Connect With Me  
 📧 Email: [waregamoses20@gmail.com](mailto:waregamoses20@gmail.com)  
-🌐 Portfolio: https://waregamo.github.io/My_portfolio/ 
+🌐 Portfolio: https://waregamo.github.io/My_portfolio/
+
 💼 LinkedIn: [linkedin.com/in/waregamoses](https://www.linkedin.com/in/YOUR_USERNAME/)  
 
 ---  
